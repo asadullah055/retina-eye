@@ -1,0 +1,54 @@
+[
+      { "id": 10,
+      "name":"Dr. Jolian Acenj",
+      "designation":"Surgery Specialist",
+      "degree":"M.D. of Medicine",
+      "visitFee":1000,
+      "position": "Senior Prof",
+      "img":"https://i.ibb.co/LC9W2zK/Dr-Triben-Dina.png"
+   },
+    { "id": 11,
+      "name":"Dr Roudy Smith",
+      "designation":"Lasik Specialist",
+      "degree":"MD. of Ophthalmologis",
+      "visitFee":1000,
+      "position": "Senior Prof",
+      "img":"https://i.ibb.co/0rMfvnX/Dr-Malina-Angel.png"
+   },
+    {
+       "id": 12,
+      "name":"Dr Arnica Sarah",
+      "designation":"Contact Lens Specialist",
+      "degree":"M.D. of Medicine",
+      "visitFee":1000,
+      "position": "Senior Prof",
+      "img":"https://i.ibb.co/HP4ZTXP/Dr-Jolian.png"
+   },
+    {
+       "id": 13,
+      "name":"Dr. Triben Dina",
+      "designation":"Contact Lens Specialist",
+      "degree":"M.D. of Medicine",
+      "visitFee":1000,
+      "position": "Senior Prof",
+      "img":"https://i.ibb.co/7SKp0mD/Dr-Jolian-Acenj.png"
+   },
+    {
+       "id": 14,
+      "name":"Dr. Alena Malic",
+      "designation":"Lasik Specialist",
+      "degree":"M.D. of Medicine",
+      "visitFee":1000,
+      "position": "Senior Prof",
+      "img":"https://i.ibb.co/GQ82q6x/Dr-Arnica-Sarah.png"
+   },
+    {
+       "id": 15,
+      "name":"Dr. Malina Angel",
+      "designation":"Contact Lens Specialist",
+      "degree":"M.D. of Medicine",
+      "visitFee":1000,
+      "position": "Senior Prof",
+      "img":"https://i.ibb.co/Y7mK5bC/Dr-Alena-Malic.png"
+   }
+]

@@ -1,0 +1,74 @@
+[
+    {
+       "id": "1",
+      "title":"Surgical Procedure",
+      "description":"The act of performing surgery may be called a surgical procedure, operation, or simply surgery. In this context, the verb operate means to perform surgery. The adjective surgical means pertaining to surgery; e.g. surgical instruments or surgical nurse.",
+      "fee":1000,
+      "doctorName": "Dr. Jolian Acenj",
+      "img":"https://i.ibb.co/DC4Kzpm/Surgical-Procedure.jpg"
+   },
+    {
+       "id": "2",
+      "title":"Retina Repair",
+      "description":"One method of retinal detachment repair is pneumatic retinopexy. In this procedure, a gas bubble is injected into the eye. The bubble presses against the detached retina and pushes it back into place. A laser or cryotherapy is then used to reattach the retina firmly into place.",
+      "fee":1500,
+      "doctorName": "Dr Roudy Smith",
+      "img":"https://i.ibb.co/TRxt2QB/Retina-Repair.jpg"
+   },
+    {
+       "id": "3",
+      "title":"Laser Surgery",
+      "description":"Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content.",
+      "fee":2500,
+      "doctorName": "Dr. Triben Dina",
+      "img":"https://i.ibb.co/GJp0s91/Laser-Surgery.jpg"
+   },
+    {
+       "id": "4",
+      "title":"Cornea Transplant",
+      "description":"A cornea transplant is an operation to remove all or part of a damaged cornea and replace it with healthy donor tissue. A cornea transplant is often referred to as keratoplasty or a corneal graft. It can be used to improve sight, relieve pain and treat severe infection or damage.",
+      "fee":1800,
+      "doctorName": "Dr. Alena Malic",
+      "img":"https://i.ibb.co/bd9YY3Q/Cornea-Transplant.jpg"
+   },
+    {
+       "id": "5",
+      "title":"Glaucoma Cornea",
+      "description":"Glaucoma is an acquired optic neuropathy in which destruction of ganglion cells and fibers leads to irreversible visual field loss. The prevalence of glaucoma, a leading cause of visual impairment and blindness worldwide [1,2], in the general population is about 2%. Increased intraocular pressure (IOP) is a primary risk factor for glaucoma development",
+      "fee":2000,
+      "doctorName": "Dr. Malina Angel",
+      "img":"https://i.ibb.co/fNNN79N/Glaucoma-Cornea.jpg"
+   },
+    {
+       "id": "6",
+      "title":"Dry Eye Surgery",
+      "description":"If you’ve tried several nonsurgical dry eye treatments and still have chronic dry eye symptoms, surgery may be an option.  However, surgery isn’t the first treatment recommended for dry eyes. Your doctor will likely want to exhaust all other treatment methods before recommending surgical procedures.",
+      "fee":1200,
+      "doctorName": "Dr Arnica Sarah",
+      "img":"https://i.ibb.co/QYLvbjy/Dry-Eye-Surgery.jpg"
+   },
+    {
+       "id": "7",
+      "title":"Glaucoma Cornea",
+      "description":"Glaucoma is an acquired optic neuropathy in which destruction of ganglion cells and fibers leads to irreversible visual field loss. The prevalence of glaucoma, a leading cause of visual impairment and blindness worldwide [1,2], in the general population is about 2%. Increased intraocular pressure (IOP) is a primary risk factor for glaucoma development",
+      "fee":2000,
+      "doctorName": "Dr. Malina Angel",
+      "img":"https://i.ibb.co/fNNN79N/Glaucoma-Cornea.jpg"
+   },
+    {
+       "id": "8",
+      "title":"Dry Eye Surgery",
+      "description":"If you’ve tried several nonsurgical dry eye treatments and still have chronic dry eye symptoms, surgery may be an option.  However, surgery isn’t the first treatment recommended for dry eyes. Your doctor will likely want to exhaust all other treatment methods before recommending surgical procedures.",
+      "fee":1200,
+      "doctorName": "Dr Arnica Sarah",
+      "img":"https://i.ibb.co/QYLvbjy/Dry-Eye-Surgery.jpg"
+   },
+   {
+       "id": "9",
+      "title":"Cornea Transplant",
+      "description":"A cornea transplant is an operation to remove all or part of a damaged cornea and replace it with healthy donor tissue. A cornea transplant is often referred to as keratoplasty or a corneal graft. It can be used to improve sight, relieve pain and treat severe infection or damage.",
+      "fee":1800,
+      "doctorName": "Dr. Alena Malic",
+      "img":"https://i.ibb.co/bd9YY3Q/Cornea-Transplant.jpg"
+   }
+]
